@@ -8,6 +8,8 @@
     "test:watch": "npm run test -- --watch"
   },
   "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^1.6.2",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "express": "~4.16.1",
